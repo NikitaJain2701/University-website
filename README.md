@@ -1,2 +1,2 @@
 # University-website
-A template for a university website
+A template for a university website design
